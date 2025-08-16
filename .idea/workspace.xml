@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6215573-5343-4227-b96c-53b9acdf6631" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/generation/gen_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generation/gen_tools.py" afterDir="false" />
+    <list default="true" id="a6215573-5343-4227-b96c-53b9acdf6631" name="Changes" comment="HAIST-gen and id_gen">
+      <change afterPath="$PROJECT_DIR$/generation/gen_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generation/unit_stats_class.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generation/gen_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/generation/gen_tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.gen_main.executor": "Run",
     "Python.gen_tests.executor": "Run",
     "Python.gen_tools.executor": "Run",
     "Python.main.executor": "Run",
@@ -102,11 +104,20 @@
       <option name="project" value="LOCAL" />
       <updated>1752088032990</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="HAIST-gen and id_gen">
+      <option name="closed" value="true" />
+      <created>1752094262340</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752094262340</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="HAIST-gen and id_gen" />
+    <option name="LAST_COMMIT_MESSAGE" value="HAIST-gen and id_gen" />
   </component>
 </project>
