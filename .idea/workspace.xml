@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6215573-5343-4227-b96c-53b9acdf6631" name="Changes" comment="HAIST-gen and id_gen">
-      <change afterPath="$PROJECT_DIR$/generation/gen_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generation/unit_stats_class.py" afterDir="false" />
+    <list default="true" id="a6215573-5343-4227-b96c-53b9acdf6631" name="Changes" comment="one comment test">
+      <change afterPath="$PROJECT_DIR$/generation/display_tools.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/generation/gen_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/generation/gen_tests.py" afterDir="false" />
     </list>
@@ -54,18 +53,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.gen_main.executor": "Run",
-    "Python.gen_tests.executor": "Run",
-    "Python.gen_tools.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "gen-dev",
-    "last_opened_file_path": "C:/Users/User/PycharmProjects/PlayadDev",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.gen_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gen_tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gen_tools.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;gen-dev&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/PlayadDev&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\PlayadDev\for test pygame\images\green_one" />
@@ -112,12 +111,30 @@
       <option name="project" value="LOCAL" />
       <updated>1752094262340</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Unit prototype">
+      <option name="closed" value="true" />
+      <created>1755385455288</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755385455288</updated>
+    </task>
+    <task id="LOCAL-00005" summary="one comment test">
+      <option name="closed" value="true" />
+      <created>1758824006602</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758824006602</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <MESSAGE value="HAIST-gen and id_gen" />
-    <option name="LAST_COMMIT_MESSAGE" value="HAIST-gen and id_gen" />
+    <MESSAGE value="Unit prototype" />
+    <MESSAGE value="one comment test" />
+    <option name="LAST_COMMIT_MESSAGE" value="one comment test" />
   </component>
 </project>
